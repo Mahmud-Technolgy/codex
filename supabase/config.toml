@@ -1,0 +1,13 @@
+project_id = "cjhyslspnaqlsvydubzk"
+
+[functions.generate-code]
+verify_jwt = true
+
+[functions.update-api-key]
+verify_jwt = true
+
+[functions.process-payment]
+verify_jwt = true
+
+[functions.approve-payment]
+verify_jwt = true
